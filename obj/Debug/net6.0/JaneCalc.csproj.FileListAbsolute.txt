@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\bin\Debug\net6.0\JaneCalc.exe
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\bin\Debug\net6.0\JaneCalc.deps.json
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\bin\Debug\net6.0\JaneCalc.runtimeconfig.json
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\bin\Debug\net6.0\JaneCalc.dll
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\bin\Debug\net6.0\JaneCalc.pdb
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\obj\Debug\net6.0\JaneCalc.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\obj\Debug\net6.0\JaneCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\obj\Debug\net6.0\JaneCalc.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\obj\Debug\net6.0\JaneCalc.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\obj\Debug\net6.0\JaneCalc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\obj\Debug\net6.0\JaneCalc.dll
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\obj\Debug\net6.0\refint\JaneCalc.dll
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\obj\Debug\net6.0\JaneCalc.pdb
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\obj\Debug\net6.0\JaneCalc.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\JaneCalc\JaneCalc\obj\Debug\net6.0\ref\JaneCalc.dll
